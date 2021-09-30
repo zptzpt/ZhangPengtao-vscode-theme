@@ -1,0 +1,27 @@
+{
+	"name": "zpttheme",
+	"displayName": "ZhangPengtaoTheme",
+	"publisher": "ZhangPengtao",
+	"description": "a color theme designed by Zhang Pengtao",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "ZhangPengtao",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ZhangPengtao-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3f88f8f5-6386-4263-a1ae-ff27508575b5",
+		"publisherDisplayName": "ZhangPengtao",
+		"publisherId": "45b31846-5b46-44b1-aa80-fb6b27b43e50"
+	}
+}
